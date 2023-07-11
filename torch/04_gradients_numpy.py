@@ -1,5 +1,6 @@
 import numpy as np
 
+# Manually using numpy (numerical)
 # f = w * x; f = 2 * x (say)
 
 x = np.array([1,2,3,4], dtype=np.float32)
